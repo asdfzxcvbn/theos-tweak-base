@@ -4,6 +4,6 @@ Version: 1.0.0
 Architecture: iphoneos-arm
 Description: 
 Maintainer: 
-Author:
+Author: 
 Section: Tweaks
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
